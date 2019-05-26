@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Heavy Bones</string>
+    <string name="enter_your_height">Enter your height in meters:</string>
+    <string name="enter_your_weight">Enter your weight in kilograms:</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="meters">meters</string>
+    <string name="kilograms">kilograms</string>
+    <string name="underweight_title">underweight</string>
+    <string name="normal_title">normal</string>
+    <string name="overweight_title">overweight</string>
+    <string name="obese_title">obese</string>
+
+
+    <string name="underweight">
+        Being underweight could be a sign you are not eating enough or you may be ill.
+    </string>
+
+    <string name="normal">
+        Keep up the good work!
+    </string>
+
+    <string name="overweight">
+        The best way to lose weight if you are overweight is through a combination of diet and exercise.
+    </string>
+
+    <string name="obese">
+        The best way to lose weight if you are obese is through a combination of diet and exercise, and, in some cases,
+        medication.
+    </string>
+
+</resources>
